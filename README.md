@@ -39,4 +39,4 @@ Previously at **CREST (ENSAI)** for research on NLP-based skill analysis and wag
 ## Contact
 
 - **Email** — mansoursanneh98@gmail.com  
-- **LinkedIn** — [mansour-kama-sane](https://www.linkedin.com/in/mansour-kama-sane)
+- **LinkedIn** — [mansour-kama-sane-307549177](https://www.linkedin.com/in/mansour-kama-sane-307549177)
