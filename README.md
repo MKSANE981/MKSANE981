@@ -20,10 +20,12 @@ Previously at **CREST (ENSAI)** for research on NLP-based skill analysis and wag
 
 | Project | Description | Stack |
 |---|---|---|
-| [rag-pipeline](https://github.com/MKSANE981/rag-pipeline) | RAG document pipeline with ChromaDB + sentence-transformers | Python · ChromaDB · sentence-transformers |
 | [slm-finetuning](https://github.com/MKSANE981/slm-finetuning) | LoRA fine-tuning of DistilBERT for text classification (86.4% F1) | PyTorch · PEFT · HuggingFace |
-| [pyspark-etl](https://github.com/MKSANE981/pyspark-etl) | Production-grade PySpark ETL with data quality checks | PySpark · Delta Lake · Parquet |
+| [rag-pipeline](https://github.com/MKSANE981/rag-pipeline) | RAG document pipeline with ChromaDB + sentence-transformers | Python · ChromaDB · sentence-transformers |
+| [ml-benchmark](https://github.com/MKSANE981/ml-benchmark) | Systematic benchmark of 8 ML algorithms with CV and SHAP | scikit-learn · XGBoost · SHAP |
+| [econometric-ml](https://github.com/MKSANE981/econometric-ml) | Causal inference vs. ML on wage prediction — Mincer OLS + SHAP counterfactuals | statsmodels · XGBoost · SHAP |
 | [nlp-topic-modeling](https://github.com/MKSANE981/nlp-topic-modeling) | LDA topic modeling on Stack Overflow + skill–wage OLS regressions | gensim · NLTK · statsmodels |
+| [pyspark-etl](https://github.com/MKSANE981/pyspark-etl) | Production-grade PySpark ETL with data quality checks | PySpark · pandas · pytest |
 
 ---
 
