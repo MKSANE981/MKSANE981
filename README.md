@@ -29,6 +29,7 @@ These repositories are **demonstrations of methods**, built on public or synthet
 |---|---|---|
 | [slm-finetuning](https://github.com/MKSANE981/slm-finetuning) | LoRA fine-tuning of a small language model for text classification (demo on AG News) | PyTorch · PEFT · HuggingFace |
 | [rag-pipeline](https://github.com/MKSANE981/rag-pipeline) | Retrieval-augmented generation over a small document corpus | Python · ChromaDB · sentence-transformers |
+| [document-extraction-pipeline](https://github.com/MKSANE981/document-extraction-pipeline) | PDF insurance documents to validated records, with a field-level evaluation on seen and unseen wordings (synthetic documents) | Python · pdfplumber · Pydantic · pytest |
 
 ### Machine learning and statistics
 
@@ -37,6 +38,12 @@ These repositories are **demonstrations of methods**, built on public or synthet
 | [ml-benchmark](https://github.com/MKSANE981/ml-benchmark) | Comparison of 8 classical ML algorithms with cross-validation and SHAP | scikit-learn · XGBoost · SHAP |
 | [econometric-ml](https://github.com/MKSANE981/econometric-ml) | OLS (Mincer equation) versus machine learning on wage prediction | statsmodels · XGBoost · SHAP |
 | [nlp-topic-modeling](https://github.com/MKSANE981/nlp-topic-modeling) | LDA topic modelling and skill-wage regression (method demo on synthetic posts) | gensim · NLTK · statsmodels |
+
+### Time series and forecasting
+
+| Project | Description | Stack |
+|---|---|---|
+| [shiny-workforce-forecasting](https://github.com/MKSANE981/shiny-workforce-forecasting) | Shiny dashboard: headcount series from employee records, stationarity tests, SARIMA grid search, Prophet and baselines, with input validation and tests (simulated data) | R · Shiny · forecast · Prophet · testthat |
 
 ### Data engineering
 
