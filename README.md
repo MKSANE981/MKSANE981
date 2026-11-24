@@ -16,6 +16,7 @@ I build machine learning and generative AI systems, and I care about measuring t
 | Role | What I did |
 |---|---|
 | **ML & Agentic AI Engineer**, Little John (insurtech), 2025-2026 | Document-processing pipeline for insurance brokers: OCR, AI agents (Pydantic AI, CrewAI) that structure documents into business templates, parallel processing and monitoring. Fine-tuned a document classifier: 86.4% accuracy on a dedicated test set of 81 documents, against 74.1% for o4-mini. *Proprietary work, not published.* |
+| **Founder**, MatchMe (personal project, since March 2026) | AI platform matching talent and opportunities: FastAPI, PostgreSQL with pgvector (Supabase), Pydantic AI agents on several model providers, Logfire, GitHub Actions CI. *Private repositories.* |
 | **Research Assistant**, CREST (ENSAI), 2024 | NLP/LDA classification of skills from Stack Overflow data and econometric models of the skill market. Highest grade of the ENSAI cohort. |
 | **Statistical Studies Officer**, ANSD (Senegal), 2019-2021 | Sole developer of the platform managing field staff for national data collection campaigns. |
 
